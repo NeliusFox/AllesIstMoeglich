@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":60,
  "infinite":false,
  "layers":[
@@ -1216,6 +1209,10 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "firstgid":503,
+         "source":"floortileset2.tsx"
         }],
  "tilewidth":32,
  "type":"map",
