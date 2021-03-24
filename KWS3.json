@@ -17,9 +17,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"https:\/\/play.workadventu.re\/_\/global\/neliusfox.github.io\/AllesIstMoeglich\/KWS4.json",
-                 "type":"bool",
-                 "value":true
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/neliusfox.github.io\/AllesIstMoeglich\/KWS4.json"
                 }],
          "type":"tilelayer",
          "visible":true,
