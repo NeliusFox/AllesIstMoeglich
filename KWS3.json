@@ -19,10 +19,10 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/neliusfox.github.io\/AllesIstMoeglich\/KWS4.json#entranceKWS3"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/neliusfox.github.io\/AllesIstMoeglich\/KWS4.json#entrance_KWS3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
@@ -40,7 +40,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
@@ -52,7 +52,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
@@ -64,7 +64,7 @@
          "name":"Collision",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
@@ -88,7 +88,7 @@
          "name":"Boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
