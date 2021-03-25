@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/neliusfox.github.io\/AllesIstMoeglich\/KWS4.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/neliusfox.github.io\/AllesIstMoeglich\/KWS4.json#entranceKWS3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -35,7 +35,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"https:\/\/play.workadventu.re\/_\/global\/neliusfox.github.io\/AllesIstMoeglich\/KWS4.json#my-entry-point",
+                 "name":"startLayer",
                  "type":"bool",
                  "value":true
                 }],
